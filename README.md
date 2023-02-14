@@ -3,3 +3,4 @@ With the recent advancement of the technologies, it is now possible to have micr
 
 High_res image ----> High_res mask with GMM ----> Downsizing to low-res mask ----> ground truth ----> U-net
 
+![alt text](https://github.com/Faramarz-bagherzadeh/Icecore_GMM_U-net/blob/main/model_output.png)

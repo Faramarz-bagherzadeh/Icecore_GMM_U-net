@@ -3,4 +3,12 @@ With the recent advancement of technology, it is now possible to have micro CT i
 
 High_res image ----> High_res mask with GMM ----> Downsizing to low-res mask ----> ground truth ----> U-net
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Micro CT Polar Ice Bubbles" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0143f225daa34a5e8ba50987c288474d/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/micro-ct-polar-ice-bubbles-0143f225daa34a5e8ba50987c288474d?utm_medium=embed&utm_campaign=share-popup&utm_content=0143f225daa34a5e8ba50987c288474d" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Micro CT Polar Ice Bubbles </a> by <a href="https://sketchfab.com/faramarz.bagherzadeh?utm_medium=embed&utm_campaign=share-popup&utm_content=0143f225daa34a5e8ba50987c288474d" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> faramarz.bagherzadeh </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=0143f225daa34a5e8ba50987c288474d" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+# Micro CT Polar Ice Bubbles
+
+[![Micro CT Polar Ice Bubbles](https://sketchfab.com/models/0143f225daa34a5e8ba50987c288474d/embed)](https://sketchfab.com/3d-models/micro-ct-polar-ice-bubbles-0143f225daa34a5e8ba50987c288474d)
+
+Micro CT Polar Ice Bubbles by [faramarz.bagherzadeh](https://sketchfab.com/faramarz.bagherzadeh) on [Sketchfab](https://sketchfab.com)
+
+> This is a 3D model of polar ice bubbles created using micro CT scanning. You can view and interact with the model on Sketchfab.
+
+To view the interactive 3D model, [click here](https://sketchfab.com/3d-models/micro-ct-polar-ice-bubbles-0143f225daa34a5e8ba50987c288474d).
